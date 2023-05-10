@@ -1,0 +1,43 @@
+D:\oop\lab_5\lab_5\lab_5\bin\Debug\lab_5.exe.config
+D:\oop\lab_5\lab_5\lab_5\bin\Debug\lab_5.exe
+D:\oop\lab_5\lab_5\lab_5\bin\Debug\lab_5.pdb
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.csproj.SuggestedBindingRedirects.cache
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.Form1.resources
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.exe
+D:\oop\lab_5\lab_5\lab_5\obj\Debug\lab_5.pdb
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.exe.config
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.exe
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.Form1.resources
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.exe
+C:\Users\User\Desktop\2 курс 2 семестр\ооп\lab_5\lab_5\obj\Debug\lab_5.pdb
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.exe.config
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.exe
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.Form1.resources
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.exe
+C:\Users\User\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.pdb
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.exe.config
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.exe
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.Form1.resources
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.exe
+C:\Users\natal\Desktop\13лаб\lab_5\lab_5\obj\Debug\lab_5.pdb
